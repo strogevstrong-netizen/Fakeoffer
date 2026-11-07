@@ -7,7 +7,7 @@ from pathlib import Path
 from aiogram import Bot, Dispatcher, F
 from aiogram.types import BusinessConnection, Message
 
-TOKEN = "ВАШ_ТОКЕН_БОТА"
+TOKEN = "9148748939:AAGafMS0rGYQuHkFk9xGfr8ank5ViByA5lc"
 DB_FILE = Path("connections.json")
 
 bot = Bot(TOKEN)
